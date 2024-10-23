@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Erona5
 - 👀 I’m interested in books
-- 🌱 I’m currently learning pyhton
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me via email 
 - 😄 Pronouns: she/her
